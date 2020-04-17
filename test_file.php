@@ -6,7 +6,5 @@
  * Time: 2:45 PM
  */
 
-echo 'inn1';
-
 
 echo 'in';
