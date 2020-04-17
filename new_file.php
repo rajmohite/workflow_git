@@ -6,4 +6,4 @@
  * Time: 2:20 PM
  */
 
-echo 'Hello workflows';
+echo 'Hello workflows.';
